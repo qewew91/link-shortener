@@ -1,4 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://qewew91:1234@cluster0.ddzaf.mongodb.net/linkShortener?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://qewew91:1234@cluster0.ddzaf.mongodb.net/linkShortener?retryWrites=true&w=majority",
+  "jwtSecret": "Silviu Dobrovolschi"
 }
